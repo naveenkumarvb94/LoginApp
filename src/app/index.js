@@ -42,7 +42,7 @@ class Login extends Component{
   }
 
   render() {
-    console.log('aa', this.props.loginStatus );
+    
     return (
         
         <View style={styles.container}>
